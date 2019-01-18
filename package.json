@@ -1,0 +1,24 @@
+{
+  "name": "express_ecommerce",
+  "version": "1.0.0",
+  "description": "expressjs ecommerce project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rubel-hossain/express_ecommerce.git"
+  },
+  "keywords": [
+    "express",
+    "ecommerce",
+    "js"
+  ],
+  "author": "rubel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rubel-hossain/express_ecommerce/issues"
+  },
+  "homepage": "https://github.com/Rubel-hossain/express_ecommerce#readme"
+}
